@@ -1,2 +1,6 @@
 # CSS_lesson
-YT TUTO [[Tuto débutant CSS] Apprendre CSS de zéro en 2023]
+YT TUTO [[Cours CSS] Apprendre CSS de zéro] https://www.youtube.com/watch?v=HDobHQfbRbo
+
+About how to positionate elements on html page with CSS
+
+![](assets/README/screen.jpg)
